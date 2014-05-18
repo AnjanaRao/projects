@@ -1,4 +1,4 @@
-import javax.servlet.*;
+Hello World
 public class FirstServlet extends GenericServlet
 {
 	public void service(ServletRequest sreq, ServletResponse sres)
